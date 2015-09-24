@@ -1,0 +1,14 @@
+{
+  "name": "scrape-whoishiring",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sjcrank/hiring-trends",
+  "description": "Hiring trends for HN who is hiring",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:sjcrank/hiring-trends.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.63.0"
+  }
+}
